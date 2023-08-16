@@ -1,4 +1,4 @@
 # TaskHub - README
 
 ## Description
-TaskHub es una plataforma integral de gestión de tareas, proyectos y cotizaciones diseñada para ayudar a individuos y equipos a organizar, planificar y ejecutar sus actividades laborales de manera eficiente.
+TaskHub is a comprehensive task, project, and quote management platform designed to help individuals and teams organize, plan, and execute their work activities efficiently.
